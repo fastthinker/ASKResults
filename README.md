@@ -30,3 +30,4 @@ These are the following metrices and formulaes used for calculation.
 Performance Index = (4*FCD + 3*FC + 2*SC + PASS)/(4 * Total Attended)
 
 ASKResult add-on does not store the results data on any third party servers. The result data is fetched directly from the VTU server into the add-on. Results are available only when the VTU servers are up.
+...
